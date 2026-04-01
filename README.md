@@ -42,14 +42,6 @@
 
 
 
-<div>
-<a href="https://github.com/VilsonfilhoDev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilsonfilhoDev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VilsonfilhoDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VilsonfilhoDev&&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
 
-
-
-
-
-![Snake animation](https://github.com/VilsonfilhoDev/VilsonfilhoDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VilsonfilhoDev/VilsonfilhoDev/blob/output/github-contribution-grid-snake-dark.svg)
